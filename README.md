@@ -48,18 +48,14 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Tabulation for Open Circuit Test
-
-![504052049-1d29e9c8-45a3-455b-94f2-ab9cfe72cdb8](https://github.com/user-attachments/assets/95dd4302-72bb-43db-baff-538893abe15b)
+![WhatsApp Image 2025-10-22 at 6 53 18 PM](https://github.com/user-attachments/assets/3ba89ebd-a420-4d91-9268-92ff1cb0cfd4)
 
 Tabulation for Load Test:
-
-![504052160-7acb4393-0854-4977-a615-5c719aadb940](https://github.com/user-attachments/assets/7fc82e97-e9cb-4063-85fd-31090e5aa543)
+![WhatsApp Image 2025-10-22 at 6 53 55 PM](https://github.com/user-attachments/assets/88dfd71f-64a1-4234-b892-88b7b4588a79)
 
 Model graph:
-
-![504052409-c01eec14-6764-4276-87d0-8a019a3bbe3a](https://github.com/user-attachments/assets/9828aa32-0b7a-439b-ab27-b7b65de71ce6)
-![504052680-a1f3bb98-8824-4e77-80a8-14ab1b2964d8](https://github.com/user-attachments/assets/e808e519-d29f-4324-9be4-9664d9fbce57)
-
+![WhatsApp Image 2025-10-22 at 6 53 55 PM (1)](https://github.com/user-attachments/assets/155dcac4-46fc-4b33-a31d-d6a0dbb53f9a)
+![WhatsApp Image 2025-10-22 at 6 54 11 PM](https://github.com/user-attachments/assets/513c7353-f10b-45d0-a9f7-5d1d7127b884)
 
 ![504053038-637d9a90-ecfd-4a25-8c04-8c927a40e732](https://github.com/user-attachments/assets/c3e6d080-27ae-4af6-a226-4dde08a422d1)
 
