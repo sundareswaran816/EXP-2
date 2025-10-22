@@ -57,14 +57,13 @@ Model graph:
 ![WhatsApp Image 2025-10-22 at 6 53 55 PM (1)](https://github.com/user-attachments/assets/155dcac4-46fc-4b33-a31d-d6a0dbb53f9a)
 ![WhatsApp Image 2025-10-22 at 6 54 11 PM](https://github.com/user-attachments/assets/513c7353-f10b-45d0-a9f7-5d1d7127b884)
 
-![504053038-637d9a90-ecfd-4a25-8c04-8c927a40e732](https://github.com/user-attachments/assets/c3e6d080-27ae-4af6-a226-4dde08a422d1)
 
 Open circuit characteristics
-
+![WhatsApp Image 2025-10-22 at 4 18 22 PM (2)](https://github.com/user-attachments/assets/1ad093a6-3afe-4ec5-96d9-864be037a9af)
 ![WhatsApp Image 2025-10-22 at 12 27 39 PM](https://github.com/user-attachments/assets/7044bef3-aa73-425e-b738-3d3b3f635b84)
   
 Load Characteristics:
-
+![WhatsApp Image 2025-10-22 at 4 18 22 PM (3)](https://github.com/user-attachments/assets/bc474e07-2194-4cc7-babe-7906876e3053)
 ![WhatsApp Image 2025-10-22 at 12 27 39 PM (1)](https://github.com/user-attachments/assets/df12231e-b2af-41b4-9d2c-e98b7cc4427e)
 
 
